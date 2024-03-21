@@ -1,0 +1,8 @@
+userName: paulcuezon_UsbVy2
+accessKey: 2E7KCmD7keop1kC8omxq
+framework: testng
+app: bs://sample.app
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S22 Ultra
+    platformVersion: 12.0
